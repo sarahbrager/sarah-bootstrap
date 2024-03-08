@@ -1,4 +1,10 @@
-# ICJ Bootstrap Template
+# Info about my project
+
+A project by Sarah Brager for Intro Coding for Journalists class.
+
+I started this project on March 5, and it is due March 22.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
 
